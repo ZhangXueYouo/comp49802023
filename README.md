@@ -6,6 +6,8 @@ https://colab.research.google.com/drive/1i7dZ05w-TXZCgkot4djN0y1SZYiWROn0#scroll
 simpleReg
 https://colab.research.google.com/drive/1uWGaHhr8HqqWMX8N-w4sjqxD5aTlScnk#scrollTo=IzJJzWMEzahY
 
+rand_Reg （有standard）
+https://colab.research.google.com/drive/1I7qCKIOWXSvA3nMvMElSGLZ1jYELpbzv#scrollTo=0ui6zBJIxiNs
 
 
 
