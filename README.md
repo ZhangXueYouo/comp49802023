@@ -54,3 +54,6 @@ Simple reg:
 
 通过标准化，特征 X 中的值被转换为具有相似尺度的值，这有助于模型更好地理解特征之间的关系，避免某个特征的值范围过大导致模型偏向于该特征。这在许多机器学习算法中是一种良好的实践，尤其是线性模型等对特征尺度敏感的算法。
 
+KNN AOC
+https://colab.research.google.com/drive/1AUy9AVeF7BnzdaduseVvmmSe4U7LqNiw?usp=sharing
+
