@@ -1,7 +1,9 @@
 # comp49802023
-
+RandomG
+https://colab.research.google.com/drive/17o1xuutzgaq6yN_1ij96yFSQ2A49W8mu?usp=sharing
+LogicReg/Classify
 https://colab.research.google.com/drive/1i7dZ05w-TXZCgkot4djN0y1SZYiWROn0#scrollTo=BeIOc-qoXQjm
-
+simpleReg
 https://colab.research.google.com/drive/1uWGaHhr8HqqWMX8N-w4sjqxD5aTlScnk#scrollTo=IzJJzWMEzahY
 
 
