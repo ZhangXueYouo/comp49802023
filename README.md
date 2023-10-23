@@ -1,14 +1,18 @@
 # comp49802023
 RandomG
 https://colab.research.google.com/drive/17o1xuutzgaq6yN_1ij96yFSQ2A49W8mu?usp=sharing
+
 LogicReg/Classify
 https://colab.research.google.com/drive/1i7dZ05w-TXZCgkot4djN0y1SZYiWROn0#scrollTo=BeIOc-qoXQjm
+
 simpleReg
 https://colab.research.google.com/drive/1uWGaHhr8HqqWMX8N-w4sjqxD5aTlScnk#scrollTo=IzJJzWMEzahY
 
 rand_Reg （有standard）
 https://colab.research.google.com/drive/1I7qCKIOWXSvA3nMvMElSGLZ1jYELpbzv#scrollTo=0ui6zBJIxiNs
 
+randomWithPattern
+https://colab.research.google.com/drive/1FktnQyWkvjM1LmXYCUPN1b668DENsip7?usp=sharing
 
 
 这段代码使用了Scikit-Learn中的 K 折交叉验证（KFold）和交叉验证评分（cross_val_score）来评估逻辑回归模型的性能。以下是代码的解释：
